@@ -1,4 +1,4 @@
-# 🔐 FRQI Quantum Image Encryption
+# 🔐 FRQI Quantum Image
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-Aer-6929C4?style=flat&logo=qiskit&logoColor=white)
