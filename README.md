@@ -78,7 +78,7 @@ pip install numpy matplotlib scikit-image tensorflow qiskit qiskit-aer
 ## ▶️ Como executar
 
 ```bash
-python frqi_encryption.py
+python frqi.py
 ```
 
 O script imprime no terminal o dígito processado, os tempos de execução de cada simulação e as métricas de MSE/PSNR, além de salvar a imagem comparativa `frqi_angulos.png` no diretório atual.
@@ -101,4 +101,4 @@ Ao final da execução, o script gera:
 
 ## 👤 Autor
 
-**Gui** — Estudante de Sistemas de Informação (Senac Santo Amaro), pesquisa de Iniciação Científica em processamento clássico e quântico de imagens.
+**Guilherme** — Estudante de Sistemas de Informação (Senac Santo Amaro), pesquisa de Iniciação Científica em processamento clássico e quântico de imagens.
