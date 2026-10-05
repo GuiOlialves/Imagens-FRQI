@@ -4,6 +4,8 @@ A v2 implementa o objetivo: imagem clássica -> estado quântico FRQI -> mediç�
 
 `frqi.py` e `README.md` continuam como a versão original, sem alterações. Execute `frqi_v2.py` para usar as correções; os resultados novos ficam em `resultados_v2/`.
 
+Veja também o [documento de diferenças e correções](DIFERENCAS_E_CORRECOES_FRQI.md), com exemplos de antes/depois, resultados e referências ao código.
+
 ## Correções
 
 1. **Ângulo da intensidade:** para `theta = pixel * pi/2`, o circuito aplica `mcry(2 * theta, ...)`. A porta RY divide o ângulo por dois nas amplitudes; assim o estado de cor é `cos(theta)|0> + sin(theta)|1>` e a probabilidade de cor 1 é `sin(theta)^2`.
