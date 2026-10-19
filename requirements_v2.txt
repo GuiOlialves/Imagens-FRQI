@@ -1,0 +1,8 @@
+# Versoes usadas na validacao da v2 (Python 3.10+).
+qiskit==2.2.3
+qiskit-aer==0.17.2
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.7
+pillow==11.3.0
+scikit-image==0.25.2
